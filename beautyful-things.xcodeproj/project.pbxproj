@@ -12,6 +12,7 @@
 		40F84F601D1DBE4D00C81C8F /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40F84F5E1D1DBE4D00C81C8F /* Main.storyboard */; };
 		40F84F621D1DBE4D00C81C8F /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 40F84F611D1DBE4D00C81C8F /* Assets.xcassets */; };
 		40F84F651D1DBE4D00C81C8F /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 40F84F631D1DBE4D00C81C8F /* LaunchScreen.storyboard */; };
+		40F84F6D1D1DC38600C81C8F /* BeautifulCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 40F84F6C1D1DC38600C81C8F /* BeautifulCell.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		40F84F611D1DBE4D00C81C8F /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		40F84F641D1DBE4D00C81C8F /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		40F84F661D1DBE4D00C81C8F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		40F84F6C1D1DC38600C81C8F /* BeautifulCell.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = BeautifulCell.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				40F84F611D1DBE4D00C81C8F /* Assets.xcassets */,
 				40F84F631D1DBE4D00C81C8F /* LaunchScreen.storyboard */,
 				40F84F661D1DBE4D00C81C8F /* Info.plist */,
+				40F84F6C1D1DC38600C81C8F /* BeautifulCell.swift */,
 			);
 			path = "beautyful-things";
 			sourceTree = "<group>";
@@ -136,6 +139,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				40F84F5D1D1DBE4D00C81C8F /* ViewController.swift in Sources */,
+				40F84F6D1D1DC38600C81C8F /* BeautifulCell.swift in Sources */,
 				40F84F5B1D1DBE4D00C81C8F /* AppDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
